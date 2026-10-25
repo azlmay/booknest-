@@ -145,4 +145,4 @@ Three tables:
 
 ## 👩‍💻 Author
 
-**Rifdha Zainab**
+**Azlal Ahamed**
